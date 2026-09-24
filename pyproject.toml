@@ -13,6 +13,9 @@ dependencies = [
     "scikit-learn (==1.7.2)",
     "joblib (>=1.6.0,<2.0.0)",
     "mlflow (>=3.16.1,<4.0.0)",
+    "jupyter (>=1.1.1,<2.0.0)",
+    "nbconvert (>=7.17.1,<8.0.0)",
+    "ipykernel (>=7.3.0,<8.0.0)",
 ]
 
 [dependency-groups]
